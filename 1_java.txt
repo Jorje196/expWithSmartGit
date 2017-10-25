@@ -2,4 +2,4 @@ import javac.swing.*
 
 public static void main(String[] args) {
 }
- /* 
+ /* изменение №1 */
